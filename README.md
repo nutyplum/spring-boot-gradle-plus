@@ -14,7 +14,7 @@ Being a notably lazy developer, I pondered over a way to add dependencies direct
 
 ## Features
 
-To open the Command Palette, press `Ctrl+Shift+P` on your keyboard. Then, type "Add dependency" and select "Gradle: Add a Dependency" from the list. This action will prompt the vscode to read the currently specified Spring Boot version from your build.gradle file.
+To open the Command Palette, press `Ctrl+Shift+P` on your keyboard. Then, type `"Add dependency"` and select `"Gradle: Add a Dependency"` from the list. This action will prompt the vscode to read the currently specified Spring Boot version from your build.gradle file.
 
 Once the Spring Boot version is detected, a list of available dependencies will be presented at the bottom. You can scroll through this list and choose the dependency you want to add. After selecting the desired dependency, press "OK".
 
@@ -32,7 +32,7 @@ I do not use separate configuration files.
 
 ## Known Issues
 
-`lombok` and similar cases involving the addition of multiple dependencies using dependency injection syntax are issues that this extension tool cannot resolve. I am currently in the process of learning "Spring Boot" and have only basic knowledge of "Gradle." If you have any ideas for additional features beyond this functionality, please feel free to suggest them, and I will consider incorporating them.
+`lombok` and similar cases involving the addition of multiple dependencies using dependency injection syntax are issues that this extension tool cannot resolve. I am currently in the process of learning `Spring Boot` and have only basic knowledge of `Gradle` If you have any ideas for additional features beyond this functionality, please feel free to suggest them, and I will consider incorporating them.
 
 ## Release Notes
 

@@ -8,7 +8,7 @@ const DEPENDENCY_INSERT_WARN = `// NOTE: The following dependencies were automat
 // Please review them to ensure they match your project's requirements.`
 
 export function activate(context: vscode.ExtensionContext) {
-    console.log(' "vscode-gradle-plus" is now active!')
+    console.log(' "spring-boot-gradle-plus" is now active!')
 
     let disposable = vscode.commands.registerCommand("gradle.project.addDependency", async () => {
         const gradleFile = await vscode.workspace.findFiles("**/build.gradle")
