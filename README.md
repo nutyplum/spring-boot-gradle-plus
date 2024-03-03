@@ -1,6 +1,6 @@
 # Spring boot Gradle Plus
 
-[Generic badge](https://img.shields.io/badge/version-0.0.1-critical.svg)
+![Generic badge](https://img.shields.io/badge/version-0.0.1-critical.svg)
 
 ![Screenshot](images/spring-boot-gradle-plus.gif)
 
