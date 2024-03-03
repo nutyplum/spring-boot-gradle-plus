@@ -39,3 +39,7 @@ I do not use separate configuration files.
 ### 1.0.0
 
 Initial release
+
+## License
+
+This extension is licensed under [MIT License](./LICENSE).
