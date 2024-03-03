@@ -3,6 +3,7 @@
     "displayName": "spring boot gradle plus",
     "description": "Adding dependencies to a Spring Boot project using Gradle can be done with ease.",
     "version": "0.0.2",
+    "icon": "resources/logo.png",
     "homepage": "https://github.com/nutyplum/spring-boot-gradle-plus",
     "repository": {
         "type": "git",
